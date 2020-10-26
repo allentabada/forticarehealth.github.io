@@ -1,0 +1,67 @@
+html,
+body {
+     background: linear-gradient(153deg,#252c41 0,#252c41 46%,#f1404b 400%);
+     background-size: 400% 400%;
+}
+
+body {
+	
+    font-family:Montserrat,"Helvetica Neue",Helvetica,sans-serif;
+   color: white;
+}
+
+
+ul#menu li {
+	display: inline
+}
+
+.up{
+	margin-top: 10000%;
+}
+
+h3	{
+	color:red;
+}
+
+.centered {
+	width: 55%;
+	margin-left: 29%;
+	margin-top: 8%;
+}
+.divider_hr{
+	border:0;
+	height:2px;
+	opacity:.5;
+	width: 20%;
+	margin-left: 41.5%;
+	margin-top: 6%;
+	margin-bottom: 10%;
+	background-image:-webkit-linear-gradient(right,#f0f0f0,#8c8b8b,#f0f0f0);
+	background-image:linear-gradient(to left,#f0f0f0,#8c8b8b,#f0f0f0)
+}
+span {
+	color:red;
+}
+.p-spacing {
+	display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+}
+p {
+	margin-bottom: .4em;
+}
+.p-size {
+	font-size: 200%;
+}
+.p-color {
+	color: red;
+}
+.p-align {
+	margin-right: 17%;
+}
+
+.fa-cog {
+  color: white;
+}
